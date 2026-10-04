@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0",
+  "version": "1.1.0",
   "min_version": "1.0.0",
-  "update_url": "https://raw.githubusercontent.com/Sengkangxploiter/XOneTzy/main/update.json",
+  "update_url": "https://github.com/Sengkangxploiter/XOneTzy/releases/download/v1.1.0/app-release.apk",
   "force_update": false,
-  "release_notes": "• Fitur baru: Tools & APK Portal\n• Bug fixes: Update checker\n• Performance improvements",
+  "release_notes": "• Fitur baru: Update checker\n• Bug fixes\n• Performance improvements",
   "release_date": "2026-10-04",
   "size_mb": 15.2
 }
